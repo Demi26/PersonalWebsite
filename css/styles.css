@@ -72,14 +72,14 @@ hr {
   margin: auto auto 50px auto;
 }
 
-.calculating-img {
-  width: 15%;
+.html-img {
+  width: 25%;
   /* float: right;
   margin-left: 30px; */
 }
 
 .analytics-img {
-  width: 30%;
+  width: 50%;
   /* float: left; */
 }
 
